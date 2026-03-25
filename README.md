@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 SoVaN:
 🔭 I’m currently working on<br>Building scalable Full-Stack applications using Python, FastAPI, and PostgreSQL, while integrating LLM and RAG architectures to create intelligent user experiences.<br><br>👯 I’m looking to collaborate on<br>Open-source projects involving AI/ML implementations or IoT-based solutions that bridge the gap between hardware and cloud-native software.<br><br>🤝 I’m looking for help with<br>Advanced system design patterns and optimizing AWS infrastructure for large-scale real-time data streaming.<br><br>🌱 I’m currently learning<br>Deepening my expertise in Deep Learning frameworks and exploring the latest advancements in Computer Vision for edge devices.<br><br>💬 Ask me about<br>The intersection of Electronics and Software, database optimization, or how to manage student leadership roles alongside technical projects.<br><br>⚡ Fun fact<br>When I'm not debugging code or designing circuits, you’ll probably find me on the football field—I find that a good match is the best way to reset the brain.
 
 
