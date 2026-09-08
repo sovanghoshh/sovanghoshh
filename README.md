@@ -1,4 +1,4 @@
-# 👋 Hey, I'm SoVaN Ghosh
+# 👋 Hey, I'm Sovan Ghosh
 
 <p align="center">
   <img src="dark_mode.svg" alt="SoVaN Ghosh GitHub Profile" width="100%"/>
@@ -9,9 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sovan-ghosh-113a1928a/">LinkedIn</a> •
   <a href="mailto:sovanghosh.official@gmail.com">Email</a> •
-  <a href="https://www.instagram.com/sovan.smile/?hl=en">Instagram</a>
+  <a href="https://www.linkedin.com/in/sovan-ghosh-113a1928a/">LinkedIn</a> •
 </p>
 
 ---
