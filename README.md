@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Sovan Ghosh
+# 👋 Hey, I'm Sovan...
 
 <p align="center">
   <img src="dark_mode.svg" alt="Sovan Ghosh GitHub Profile" width="100%"/>
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <b>Data Science & ML Engineer • Software Developer • Full-Stack & Real-Time Systems • ECE</b>
+  <b>Data Science & ML Engineer • Software Developer • Full-Stack & Real-Time Systems • Electronics & Communication Engineering (ECE)</b>
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@ I'm an Electronics & Communication Engineering student at **Institute of Enginee
 My work typically sits across four layers:
 
 ```text
-                REAL-WORLD PROBLEM
+              **REAL-WORLD PROBLEM**
                        │
                        ▼
               Data & Event Streams
