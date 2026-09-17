@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:sovanghosh.official@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/sovanghosh/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/sovan-ghosh-113a1928a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/sovanghoshh"><img src="https://img.shields.io/badge/GitHub-sovanghoshh-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
@@ -187,7 +187,7 @@ I'm especially interested in systems where **streaming data, machine learning, a
 I'm interested in collaborating on **machine learning, data platforms, AI automation, IoT, edge/real-time systems, and open-source software** — especially projects where a technical idea needs to become a usable product.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sovanghosh/">
+  <a href="https://www.linkedin.com/in/sovan-ghosh-113a1928a/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:sovanghosh.official@gmail.com">
