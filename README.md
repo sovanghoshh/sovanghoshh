@@ -1,141 +1,207 @@
 # 👋 Hey, I'm Sovan Ghosh
 
 <p align="center">
-  <img src="dark_mode.svg" alt="SoVaN Ghosh GitHub Profile" width="100%"/>
+  <img src="dark_mode.svg" alt="Sovan Ghosh GitHub Profile" width="100%"/>
 </p>
 
 <p align="center">
-  <b>Software Engineer • AI/ML Enthusiast • Full-Stack Developer • Electronics & IoT</b>
+  <a href="mailto:sovanghosh.official@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/sovanghosh/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/sovanghoshh"><img src="https://img.shields.io/badge/GitHub-sovanghoshh-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 <p align="center">
-  <a href="mailto:sovanghosh.official@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/sovan-ghosh-113a1928a/">LinkedIn</a> •
+  <b>Data Science & ML Engineer • Software Developer • Full-Stack & Real-Time Systems • ECE</b>
+</p>
+
+<p align="center">
+  Building systems that turn <b>data into decisions</b> — from real-time industrial telemetry to AI-powered applications.
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 What I Build
 
-I'm a software engineer interested in building **intelligent, scalable, and production-ready systems** at the intersection of software, AI, cloud, and hardware.
+I'm an Electronics & Communication Engineering student at **Institute of Engineering & Management (IEM), Kolkata**, focused on the intersection of **software engineering, machine learning, data, and connected systems**.
 
-My current focus is on developing:
+My work typically sits across four layers:
 
-* ⚙️ **Scalable Full-Stack Applications** with Python, FastAPI, and PostgreSQL
-* 🤖 **AI/ML Systems** using Deep Learning, Computer Vision, LLMs, and RAG
-* 📡 **Real-Time Data & IoT Platforms** connecting industrial hardware with cloud-native systems
-* ☁️ **Cloud & Distributed Systems** with AWS, streaming pipelines, and scalable architectures
-* 🧠 **Intelligent Applications** that combine data engineering, machine learning, and software engineering
+```text
+                REAL-WORLD PROBLEM
+                       │
+                       ▼
+              Data & Event Streams
+                       │
+             ┌─────────┴─────────┐
+             ▼                   ▼
+        Data Engineering      APIs / Systems
+             │                   │
+             └─────────┬─────────┘
+                       ▼
+                  ML / AI Layer
+             ┌─────────┼─────────┐
+             ▼         ▼         ▼
+          Analytics   CV/Audio   LLM/RAG
+                       │
+                       ▼
+             Production Application
+                       │
+                       ▼
+                 Action / Insight
+```
 
-I enjoy turning complex engineering problems into systems that are **reliable, observable, scalable, and useful**.
-
----
-
-## 🔭 Currently Working On
-
-Building scalable applications and intelligent data platforms using:
-
-`Python` `FastAPI` `PostgreSQL` `Kafka` `AWS` `LLM` `RAG` `IoT`
-
-I'm particularly interested in **real-time industrial systems**, streaming architectures, predictive analytics, and AI-powered applications.
-
----
-
-## 🌱 Currently Learning
-
-Deepening my knowledge of:
-
-`Deep Learning` `Computer Vision` `Distributed Systems` `System Design` `MLOps` `Cloud Architecture`
-
-I'm especially interested in deploying machine learning models closer to the edge and building systems that can operate reliably at scale.
+I enjoy the engineering challenge between a model or idea and a **working system**: ingestion, processing, APIs, deployment, automation, and the final user-facing experience.
 
 ---
 
-## 🤝 Open to Collaborate On
+## 📌 A Few Things I've Built
 
-I'm interested in collaborating on:
+### ⚙️ Industrial IIoT & Predictive Maintenance
+**Iquester Solutions LLP — Software Developer Intern**
 
-**AI/ML projects** • **Open Source** • **IoT platforms** • **Edge AI** • **Real-Time Systems** • **Cloud-Native Applications**
+Built a real-time industrial data pipeline using **Python, MQTT (EMQX Cloud), and InfluxDB**, ingesting simulated vibration telemetry as structured time-series data. Worked across the pipeline from **edge simulation → cloud ingestion → live predictive-maintenance dashboard**, with sub-second anomaly detection and lower fault-alert latency.
 
-I particularly enjoy projects that bridge the gap between **hardware and modern software infrastructure**.
+### 🤖 MinuteMate — AI-Powered Async Meeting Agent
+Built a Chrome Extension that captures meeting audio and sends it to a **FastAPI** backend, where **OpenAI Whisper** handles transcription and **Google Gemini** generates structured notes and action items. Automated task delivery into **GitHub Issues, Notion, and Slack** through their APIs.
+
+### 📊 Statistical Analysis of Immigration Across U.S. Borders
+Analyzed **402,318 Bureau of Transportation Statistics observations** across 14 U.S. states using a dual-border, state-level ML framework. Benchmarked **CatBoost, LightGBM, XGBoost, and OLS**, with lag/rolling features and statistical validation. Best reported result: **R² = 0.848** with a feature-augmented CatBoost model.
+
+### ⚖️ EquiEval — Ethical ML for Employee Performance Evaluation
+Built an ordinal performance-classification pipeline using **Random Forest, XGBoost, and CatBoost**, with **VIF/RFE feature selection** and **ADASYN** for class imbalance. Compared six GridSearchCV-tuned model-feature scenarios and used **bootstrap resampling and pairwise significance testing** rather than relying on raw accuracy alone.
+
+### 👶 ToT Trecks — AI-Powered Baby Cry Monitor
+Developed a real-time audio classification system using **Keras/TensorFlow**, **PyAudio**, and **Librosa**, with a **Flask** dashboard and **SQLite** event logging for timestamped historical analysis.
 
 ---
 
-## 💻 Tech Stack
+## 🧠 My Core Focus
+
+| Area | What I'm Interested In |
+|---|---|
+| **Data Science** | EDA, predictive analytics, statistical modeling, feature engineering |
+| **Machine Learning** | Tree-based models, classification, regression, model evaluation |
+| **AI Applications** | LLMs, RAG, speech processing, automation |
+| **Backend Engineering** | Python, FastAPI, REST APIs, data services |
+| **Real-Time Systems** | MQTT, streaming telemetry, event-driven architectures |
+| **Full-Stack Development** | Frontend-to-backend product integration |
+| **Industrial / IoT** | Sensor data, monitoring, predictive maintenance |
+
+---
+
+## 🛠️ Tech Stack
 
 ### Languages
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat\&logo=c%2B%2B\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat\&logo=javascript\&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat\&logo=python\&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-### Backend & APIs
+### Data Science & ML
 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat\&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat\&logo=flask\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-### AI / Machine Learning
+### Backend, Data & Infrastructure
 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat\&logo=PyTorch\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat\&logo=TensorFlow\&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat\&logo=Keras\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat\&logo=scikit-learn\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat\&logo=opencv\&logoColor=white)
-
-### Data & Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat\&logo=mongodb\&logoColor=white)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat\&logo=InfluxDB\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat\&logo=supabase\&logoColor=white)
-
-### Cloud & Tools
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat\&logo=amazon-aws\&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=flat\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat\&logo=pandas\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat\&logo=Matplotlib\&logoColor=black)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat\&logo=Canva\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-## 🧩 Areas of Interest
+## 📈 Research & Engineering Mindset
+
+I care about more than getting a model to run. My projects increasingly focus on:
+
+- **Reproducible data pipelines**
+- **Feature engineering and model benchmarking**
+- **Statistical validation of model comparisons**
+- **Real-time inference and monitoring**
+- **API-first system design**
+- **Automation and integration with real products**
+
+I have also contributed to published research on **neural network design**.
+
+---
+
+## 🎓 Education
+
+**Institute of Engineering & Management (IEM), Kolkata**  
+B.Tech — Electronics & Communication Engineering  
+**CGPA: 8.69**
+
+My ECE background gives me a hardware-and-software perspective: signals, communication, embedded concepts, and electronics on one side — software, data, AI, and systems engineering on the other.
+
+---
+
+## 🏅 Certifications & Simulations
+
+- **Python for Everybody Specialization** — University of Michigan / Coursera
+- **GenAI Powered Data Analytics Job Simulation** — Tata Group / Forage
+- **Data Science Job Simulation** — British Airways / Forage
+
+---
+
+## 🔭 What I'm Exploring Now
 
 ```text
-Software Engineering
-        │
-        ├── Backend & APIs
-        ├── Distributed Systems
-        ├── Databases
-        └── Cloud Architecture
-                    │
-                    ▼
-              Real-Time Data
-                    │
-             ┌──────┴──────┐
-             ▼             ▼
-            IoT           Kafka
-             │             │
-             └──────┬──────┘
-                    ▼
-                AI / ML
-             ┌──────┼──────┐
-             ▼      ▼      ▼
-           LLM/RAG CV   Predictive Analytics
-                    │
-                    ▼
-              Intelligent Apps
+Machine Learning
+      ↓
+Production ML / MLOps
+      ↓
+Real-Time & Distributed Systems
+      ↓
+Cloud Infrastructure
+      ↓
+AI-Powered Products
 ```
+
+I'm especially interested in systems where **streaming data, machine learning, and software engineering meet** — particularly industrial intelligence, predictive analytics, intelligent automation, and production-oriented AI applications.
 
 ---
 
-## 📊 GitHub Stats
+## 🤝 Let's Build Something Useful
+
+I'm interested in collaborating on **machine learning, data platforms, AI automation, IoT, edge/real-time systems, and open-source software** — especially projects where a technical idea needs to become a usable product.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sovanghoshh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+  <a href="https://www.linkedin.com/in/sovanghosh/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sovanghosh.official@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/sovan.smile/?hl=en">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Build it. Measure it. Ship it. Improve it.</i>
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sovanghoshh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sovanghoshh&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
@@ -143,59 +209,9 @@ Software Engineering
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sovanghoshh&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="170"/>
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sovanghoshh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sovanghoshh&theme=tokyo-night&hide_border=true" width="95%"/>
 </p>
-
----
-
-## ✍️ Developer Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-## ⚡ A Little About Me
-
-When I'm not building software or working with electronics, you'll probably find me on the **football field**.
-
-A good match is still one of my favorite ways to reset the brain. ⚽
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sovan-ghosh-113a1928a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:sovanghosh.official@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/sovan.smile/?hl=en">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <i>Building systems. Learning relentlessly. Turning ideas into reality.</i>
-</p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sovanghoshh&label=Profile%20Views&color=0e75b6&style=flat" />
