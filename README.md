@@ -193,9 +193,6 @@ I'm interested in collaborating on **machine learning, data platforms, AI automa
   <a href="mailto:sovanghosh.official@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/sovan.smile/?hl=en">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
 </p>
 
 <p align="center">
@@ -203,22 +200,3 @@ I'm interested in collaborating on **machine learning, data platforms, AI automa
 </p>
 
 ---
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sovanghoshh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sovanghoshh&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sovanghoshh&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sovanghoshh&theme=tokyo-night&hide_border=true" width="95%"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sovanghoshh&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
