@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <b>Data Science & ML Engineer • Software Developer • Full-Stack & Real-Time Systems • Electronics & Communication Engineering (ECE)</b>
+  <b>Data Science & ML Engineer • Software Developer • Full-Stack & Real-Time Systems • Electronics & Communication Engineering</b>
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@ I'm an Electronics & Communication Engineering student at **Institute of Enginee
 My work typically sits across four layers:
 
 ```text
-              **REAL-WORLD PROBLEM**
+               REAL-WORLD PROBLEM
                        │
                        ▼
               Data & Event Streams
