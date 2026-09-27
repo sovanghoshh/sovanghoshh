@@ -4,6 +4,7 @@
   <img src="./dark.svg" alt="Sovan Ghosh — Data Science &amp; ML Engineer, Software Developer, ECE student at IEM Kolkata">
 </picture>
 
+
 <p align="center">
   <a href="mailto:sovanghosh.official@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/sovan-ghosh-113a1928a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
